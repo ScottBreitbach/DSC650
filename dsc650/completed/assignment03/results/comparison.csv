@@ -1,0 +1,4 @@
+format,uncompressed,gzip,snappy
+Avro,19.6MB,,
+Parquet,1.96,,
+ProtocolBuffers,22.5,,3.76
